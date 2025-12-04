@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <item>
-    <version>1.1</version>
+    <version>1.0</version>
     <url>https://raw.githubusercontent.com/Rulexon/clinicaINCODE-updates/main/releases/TurnosINCODESetup_1.0.exe</url>
     <mandatory>false</mandatory>
     <changelog>Fix de errores y mejoras del sistema.</changelog>
